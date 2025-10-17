@@ -7,7 +7,14 @@
 </h3>
 
 <p align="center">
+  <!-- صورة الحركة -->
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="160" height="160">
+  
+  <!-- شعار PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="100" height="100" style="margin-left: 30px;">
+  
+  <!-- شعار Laravel -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" style="margin-left: 30px;">
 </p>
 
 <p align="center">
