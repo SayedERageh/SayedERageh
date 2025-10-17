@@ -8,14 +8,18 @@
 
 <p align="center">
   <!-- صورة الحركة -->
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="160" height="160">
-  
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" height="150">
+
   <!-- شعار PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="100" height="100" style="margin-left: 30px;">
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="90" height="90" style="margin-left: 25px;">
+
   <!-- شعار Laravel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" style="margin-left: 30px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" style="margin-left: 25px;">
+
+  <!-- شعار LangChain -->
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain-logo-light.svg" width="120" height="120" style="margin-left: 25px;">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&width=800&lines=Full-Stack+Developer+%7C+PHP+OOP+%7C+Laravel+%7C+Filament+%7C+MySQL;Mastering+Back-End+Architecture+and+Clean+Code;Integrating+Modern+Front-End+Frameworks+with+Powerful+Back-End+Logic;Building+Enterprise-Grade+Applications+from+Scratch+🚀" />
