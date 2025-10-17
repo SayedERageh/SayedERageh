@@ -17,8 +17,8 @@
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="90" height="90" style="margin-left: 25px;">
 
   <!-- LangChain -->
-<img src="https://seeklogo.com/vector-logo/528369/langchain" width="120" height="120">
-</p>
+[<img src="https://seeklogo.com/vector-logo/528369/langchain" width="120" height="120">
+](https://media.licdn.com/dms/image/v2/D4D12AQHMlN0GR-PhgA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701001640487?e=2147483647&v=beta&t=EU6c_S-S20OBbckEom8XgT4uC9MVwPpm8QWyMOEzVUg)</p>
 
 
 
