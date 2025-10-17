@@ -7,18 +7,19 @@
 </h3>
 
 <p align="center">
-  <!-- صورة متحركة -->
+  <!-- صورة الحركة -->
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" height="150">
 
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="90" height="90" style="margin-left: 25px;">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="90" height="90" style="margin-left: 25px;">
 
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" style="margin-left: 25px;">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="90" height="90" style="margin-left: 25px;">
 
   <!-- LangChain -->
-  <img src="https://raw.githubusercontent.com/AmirMotefaker/AI-LangChain-Tutorial/main/images/langchain-logo.png" width="120" height="120" style="margin-left: 25px;">
+  <img src="https://raw.githubusercontent.com/suno-ai/langchain.js/main/docs/static/img/langchain.png" width="100" height="100" style="margin-left: 25px;">
 </p>
+
 
 
 
