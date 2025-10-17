@@ -17,7 +17,7 @@
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="90" height="90" style="margin-left: 25px;">
 
   <!-- LangChain -->
-  <img src="https://raw.githubusercontent.com/suno-ai/langchain.js/main/docs/static/img/langchain.png" width="100" height="100" style="margin-left: 25px;">
+<img src="https://seeklogo.com/vector-logo/528369/langchain" width="120" height="120">
 </p>
 
 
